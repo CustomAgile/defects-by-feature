@@ -1,0 +1,12 @@
+{
+   "name": "test",
+   "className": "CustomApp",
+   "server": "https://10.32.16.78",
+   "sdk": "2.0p5",
+   "javascript": [
+      "App.js"
+   ],
+   "css": [
+      "app.css"
+   ]
+}
